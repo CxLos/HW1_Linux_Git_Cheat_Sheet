@@ -11,4 +11,5 @@
 `git show [SHA]` - show any object in git in human-readable format
 `git rm [file]` - delete the file from project and stage the removal for commit
 `git mv [existing_path] [new_path]` - change an existing file path and stage the move
-`git stash` - save modified and staged changes 
+`git stash` - save modified and staged changes
+`git pull` - fetch and merge any commits from the tracking remote branch 
