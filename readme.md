@@ -8,4 +8,5 @@
 `git checkout -b [branch_name]` - create new branch and switch to it
 `git merge [branch]` - merge the specified branch history in the current one
 `git log` - show the commit history for current active branch
-`git show [SHA]` - show any object in git in human-readable format 
+`git show [SHA]` - show any object in git in human-readable format
+`git rm [file]` - delete the file from project and stage the removal for commit 
