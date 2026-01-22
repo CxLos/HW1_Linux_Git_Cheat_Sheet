@@ -4,4 +4,5 @@
 `git add` - add a file as it is now to next commit
 `git branch` - list all your branches
 `git branch [branch_name]` - create new branch
-`git checkout [branch_name]` - switch to branch 
+`git checkout [branch_name]` - switch to branch
+`git checkout -b [branch_name]` - create new branch and switch to it 
