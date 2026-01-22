@@ -5,4 +5,5 @@
 `git branch` - list all your branches
 `git branch [branch_name]` - create new branch
 `git checkout [branch_name]` - switch to branch
-`git checkout -b [branch_name]` - create new branch and switch to it 
+`git checkout -b [branch_name]` - create new branch and switch to it
+`git merge [branch]` - merge the specified branch history in the current one 
